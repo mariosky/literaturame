@@ -59,7 +59,7 @@
   \title{Finding self-organized criticality in collaborative work via repository mining}
   \pretitle{\vspace{\droptitle}\centering\huge}
   \posttitle{\par}
-  \author{J. J. Merelo and P. A. Castillo}
+  \author{J. J. Merelo and P. A. Castillo and M. Garcia-Valdez}
 
 \begin{document}
 % is it possible using relative-paths instead of absolute paths to set the file names?
